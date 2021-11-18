@@ -1,6 +1,6 @@
 # DIA 6
 
-O objetivo desse dia foi aprender algumas técnicas para maximizar a eficiência de trabalhos em grupo, utilizando o git e o github.
+O objetivo desse dia foi conhecer e desenvolver a prática de mais comandos do git e a integração com o github.
 
 O exercício do dia foi utilizar o texto no arquivo .txt , localizado dentro do diretório do dia anterior, crie uma cópia para usar no dia de hoje.
 
