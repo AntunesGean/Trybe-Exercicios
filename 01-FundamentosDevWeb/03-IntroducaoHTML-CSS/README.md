@@ -9,4 +9,4 @@ Para isso, foi dividido o conteúdo em quatro partes:
 - 03.A como alterar o posicionamento dos elementos na página e como algumas propriedades específicas alteram as dimensões dos elementos;
 - 04.O significado que cada elemento HTML carrega e sobre como isso impacta a acessibilidade da página e a interpretação do conteúdo por indexadores de pesquisa, como o Google.
 
-- E como fechamento do Bloco, será desenvolvido página web, aplicando todo o conhecimento visto, de acordo com a especificação do projeto final.
+E como fechamento do Bloco, será desenvolvido página web, aplicando todo o conhecimento visto, de acordo com a especificação do projeto final.
