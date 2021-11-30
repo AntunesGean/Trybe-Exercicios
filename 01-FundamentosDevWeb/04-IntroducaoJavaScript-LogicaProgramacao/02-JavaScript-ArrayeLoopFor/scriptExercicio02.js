@@ -6,3 +6,15 @@ for (let i = 0; i < numbers.length; i += 1) {
 }
 
 console.log(soma);
+
+// usando reducer
+// const arr = [1, 2, 3, 4];
+// const reducer = (accumulator, curr) => accumulator + curr;
+// console.log(arr.reduce(reducer));
+
+
+// usando lodash
+// var lodash = require('lodash');
+// var arr = [3, 6, 1, 5, 8];
+// var sum = lodash.sum(arr);
+// console.log(sum); 
