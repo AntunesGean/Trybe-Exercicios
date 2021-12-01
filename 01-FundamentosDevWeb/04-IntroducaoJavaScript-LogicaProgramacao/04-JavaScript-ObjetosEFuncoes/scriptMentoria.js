@@ -17,26 +17,27 @@
 // console.log("A area do perimetro é", areaPerimetro(4,4));
 
 
+
 // Crie uma função que, dado um array de números inteiros, retorne a quantidade de números pares e ímpares no formato: { pares: 0, ímpares: 0 }
 
-let array = [2, 8, 10, 23];
-let pares;
-let impares;
-function parImpar (array) {
-  let parImpar = {
-    pares: 0,
-    impares:0
-  }
-  for (let num of array) {
-    if (num % 2 === 0){
-      parImpar.pares += 1;
-    } else  {
-      parImpar.impares +=1;
-    }    
-  }
-return parImpar;
-}
-console.log(parImpar(array));
+// let array = [2, 8, 10, 23];
+// let pares;
+// let impares;
+// function parImpar (array) {
+//   let parImpar = {
+//     pares: 0,
+//     impares:0
+//   }
+//   for (let num of array) {
+//     if (num % 2 === 0){
+//       parImpar.pares += 1;
+//     } else  {
+//       parImpar.impares +=1;
+//     }    
+//   }
+// return parImpar;
+// }
+// console.log(parImpar(array));
 
 
 
@@ -48,3 +49,15 @@ console.log(parImpar(array));
 // verificaFimPalavra(‘joaofernando’, ‘fernan’);
 // Retorno esperado: false;
 // Dica: Use o SPLIT.
+
+let word = "trybe";
+let ending = "be";
+
+function (word, ending) {
+  if (ending /*verifica o final*/ word) { //assistir as aulas para conhecer as opções para realizar o teste.
+    return true;
+  } else {
+    return false;
+  }
+}
+console.log(function());
