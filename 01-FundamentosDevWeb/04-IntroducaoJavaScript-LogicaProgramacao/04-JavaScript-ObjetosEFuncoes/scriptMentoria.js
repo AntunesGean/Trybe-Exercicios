@@ -22,27 +22,20 @@
 let array = [2, 8, 10, 23];
 let pares;
 let impares;
-
 function parImpar (array) {
-
   let parImpar = {
     pares: 0,
     impares:0
   }
-
   for (let num of array) {
-
     if (num % 2 === 0){
       parImpar.pares += 1;
     } else  {
       parImpar.impares +=1;
     }    
   }
-
 return parImpar;
-
 }
-
 console.log(parImpar(array));
 
 
