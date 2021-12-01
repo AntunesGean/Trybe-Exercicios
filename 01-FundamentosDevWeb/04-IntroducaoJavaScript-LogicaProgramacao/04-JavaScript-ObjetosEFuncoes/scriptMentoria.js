@@ -49,15 +49,3 @@
 // verificaFimPalavra(‘joaofernando’, ‘fernan’);
 // Retorno esperado: false;
 // Dica: Use o SPLIT.
-
-let word = "trybe";
-let ending = "be";
-
-function (word, ending) {
-  if (ending /*verifica o final*/ word) { //assistir as aulas para conhecer as opções para realizar o teste.
-    return true;
-  } else {
-    return false;
-  }
-}
-console.log(function());
