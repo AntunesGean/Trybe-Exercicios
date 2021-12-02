@@ -49,3 +49,30 @@
 // verificaFimPalavra(‘joaofernando’, ‘fernan’);
 // Retorno esperado: false;
 // Dica: Use o SPLIT.
+
+// function verificaFimPalavra(word, ending) {
+//   return word.endsWith(ending);
+// }
+
+// console.log(verificaFimPalavra("trybe","be"));
+// console.log(verificaFimPalavra("joaofernando","fernan"));
+
+function verificaFimPalavra(word, ending) {
+  if (word.split(ending) - ending) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+let word = "trybe";
+let ending = "be";
+let wordSplit = word.split("");
+let endingSplit = ending.split("");
+if (wordSplit.lastIndexOf(endingSplit)
+
+console.log(verificaFimPalavra("trybe","be"));
+console.log(verificaFimPalavra("joaofernando","fernan"));
+
+var array = [2, 5, 9, 2];
+console.log(array.lastIndexOf(5, 2));
