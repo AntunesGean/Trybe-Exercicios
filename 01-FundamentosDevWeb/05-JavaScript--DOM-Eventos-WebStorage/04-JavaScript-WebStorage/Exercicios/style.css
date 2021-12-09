@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 html {
   scroll-behavior: smooth;
 }
@@ -15,6 +17,9 @@ body {
   height: auto;
   opacity: 0.4;
   z-index: -1;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 header {
