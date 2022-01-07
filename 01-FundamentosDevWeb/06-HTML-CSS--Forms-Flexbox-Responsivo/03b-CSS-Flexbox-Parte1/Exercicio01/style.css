@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Permanent+Marker&display=swap');
+
+
+/* font-family: 'Nanum Pen Script', cursive;
+font-family: 'Permanent Marker', cursive; */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #ffd800;  
+}
+
+nav div {
+  margin: 0 auto;
+  max-width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+nav img {
+  width: 200px;
+}
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 72px;
+  background: -webkit-linear-gradient(#ff0000,#ff0000,#fff,#fff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(2px 2px #333);
+}
+
+nav p {
+  color: #fff;
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 26px;
+  filter: drop-shadow(1px 1px #333);
+}
+
+nav p:hover {
+  color: #ff0000;
+  cursor: pointer;
+}
+
+h2, h3, h4 {
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  margin: 20px 0;
+  color: #ff0000;  
+  filter: drop-shadow(1px 1px #333);
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 40px;
+}
+
+.div-imgs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div-imgs img {
+  margin: 0 20px;
+  border: solid 5px #ff0000;
+  border-radius: 5%;
+  filter: drop-shadow(3px 3px #333);
+}
+
+.planet {
+  width: 250px;
+}
+
+.div-planet {
+  text-align: center;
+}
+
+footer {
+  background-color: #ffd800;
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+footer h2 {
+  color: #fff;
+  margin: 10px 0;
+}
