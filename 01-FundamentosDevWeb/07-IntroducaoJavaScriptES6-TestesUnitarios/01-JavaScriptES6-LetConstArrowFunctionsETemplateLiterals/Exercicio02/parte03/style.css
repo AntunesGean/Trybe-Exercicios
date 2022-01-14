@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+  font-size: 20pt;
+  font-weight: normal;
+  background: rgb(155, 205, 252);
+}
+
+main {
+  margin: 100px auto;
+  text-align: center;
+}
+
+h1 {
+  color: aliceblue;
+  text-shadow: rgb(0, 51, 117) 2px 2px 1px;
+}
+
+#cliqueme {
+  width: 400px;
+  height: 200px;
+  border-radius: 25px;
+  border: none;
+  font-size: 30pt;
+  color: rgb(88, 88, 88);
+  display: block;
+  margin: auto;
+  box-shadow: rgb(150, 164, 201) 1px 1px 5px;
+}
+
+#reset {
+  margin: 20px;
+  width: 100px;
+  height: 25px;
+  border-radius: 25px;
+  border: none;
+  box-shadow: rgb(150, 164, 201) 1px 1px 5px;
+}
