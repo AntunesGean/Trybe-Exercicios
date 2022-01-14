@@ -18,4 +18,3 @@ console.log(`${strNew} Minhas cinco principais habilidade são:
 • ${arr[2]}
 • ${arr[3]}
 • ${arr[4]}`);
-
