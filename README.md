@@ -63,13 +63,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 7-3: _Testes unitários em JavaScript_
 - [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
-##### Bloco 8: JavaScript ES6
+##### [Bloco 08: Higher Order Functions do JavaScript ES6](https://github.com/AntunesGean/Trybe-Exercicios/tree/master/01-FundamentosDevWeb/08-HigherOrderFunctionsJavaScriptES6)
 
-- [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-5: _[Projeto - Zoo functions]()_
+- [ ] [8-1: _JavaScript ES6 - Introdução a Higher Order Functions](https://github.com/AntunesGean/Trybe-Exercicios/tree/master/01-FundamentosDevWeb/08-HigherOrderFunctionsJavaScriptES6/01-JavaScriptES6-IntroducaoAHigherOrderFunctions)
+- [ ] [8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort](https://github.com/AntunesGean/Trybe-Exercicios/tree/master/01-FundamentosDevWeb/08-HigherOrderFunctionsJavaScriptES6/02-JavaScriptES6-HigherOrderFunctions-ForEachFindSomeEverySort)
+- [ ] [8-3: _JavaScript ES6 - Higher Order Functions - map e filter](https://github.com/AntunesGean/Trybe-Exercicios/tree/master/01-FundamentosDevWeb/08-HigherOrderFunctionsJavaScriptES6/03-JavaScriptES6-HigherOrderFunctions-MapEFilter)
+- [ ] [8-4: _JavaScript ES6 - Higher Order Functions - reduce](https://github.com/AntunesGean/Trybe-Exercicios/tree/master/01-FundamentosDevWeb/08-HigherOrderFunctionsJavaScriptES6/04-JavaScriptES6-HigherOrderFunctions-Reduce)
+- [ ] [8-5: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais](https://github.com/AntunesGean/Trybe-Exercicios/tree/master/01-FundamentosDevWeb/08-HigherOrderFunctionsJavaScriptES6/05-JavaScriptES6-SpreadOperatorParametroRestDestructuringEMais)
+- [ ] 8-6: _[Projeto - Zoo functions]()_
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
