@@ -1,5 +1,5 @@
 ## Bloco 08: Higher Order Functions do JavaScript ES6
-### 01: JavaScript ES6 - Introdução a Higher Order Functions
+### [01: JavaScript ES6 - Introdução a Higher Order Functions](https://github.com/AntunesGean/Trybe-Exercicios/tree/master/01-FundamentosDevWeb/08-HigherOrderFunctionsJavaScriptES6/01-JavaScriptES6-IntroducaoAHigherOrderFunctions)
 
  - O que vamos aprender?
  
