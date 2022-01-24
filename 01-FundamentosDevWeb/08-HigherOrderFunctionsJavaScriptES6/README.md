@@ -14,7 +14,7 @@
    um código mais legível, conciso e expressivo.
 
 ----------
-### 02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+### [02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort](https://github.com/AntunesGean/Trybe-Exercicios/tree/master/01-FundamentosDevWeb/08-HigherOrderFunctionsJavaScriptES6/02-JavaScriptES6-HigherOrderFunctions-ForEachFindSomeEverySort)
 
  - O que vamos aprender?
 
@@ -24,7 +24,7 @@
    legível, conciso e expressivo.
 
  ----------
-### 03: JavaScript ES6 - Higher Order Functions - map e filter
+### [03: JavaScript ES6 - Higher Order Functions - map e filter](https://github.com/AntunesGean/Trybe-Exercicios/tree/master/01-FundamentosDevWeb/08-HigherOrderFunctionsJavaScriptES6/03-JavaScriptES6-HigherOrderFunctions-MapEFilter)
 
  - O que vamos aprender?
  
@@ -36,7 +36,7 @@
    _HOFs_ deixarão seu código mais legível, conciso e expressivo.
 
 ----------
-### 04: JavaScript ES6 - Higher Order Functions - reduce
+### [04: JavaScript ES6 - Higher Order Functions - reduce](https://github.com/AntunesGean/Trybe-Exercicios/tree/master/01-FundamentosDevWeb/08-HigherOrderFunctionsJavaScriptES6/04-JavaScriptES6-HigherOrderFunctions-Reduce)
 
  - O que vamos aprender?
  
@@ -48,7 +48,7 @@
    conciso e expressivo.
 
 ----------
-### 05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+### [05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais](https://github.com/AntunesGean/Trybe-Exercicios/tree/master/01-FundamentosDevWeb/08-HigherOrderFunctionsJavaScriptES6/05-JavaScriptES6-SpreadOperatorParametroRestDestructuringEMais)
 
  - O que vamos aprender?
  
